@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/circularNode/bin/Debug/netcoreapp2.2/circularNode.deps.json
+/Users/Guest/Desktop/circularNode/bin/Debug/netcoreapp2.2/circularNode.runtimeconfig.json
+/Users/Guest/Desktop/circularNode/bin/Debug/netcoreapp2.2/circularNode.runtimeconfig.dev.json
+/Users/Guest/Desktop/circularNode/bin/Debug/netcoreapp2.2/circularNode.dll
+/Users/Guest/Desktop/circularNode/bin/Debug/netcoreapp2.2/circularNode.pdb
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.csprojAssemblyReference.cache
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.AssemblyInfo.cs
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.dll
+/Users/Guest/Desktop/circularNode/obj/Debug/netcoreapp2.2/circularNode.pdb
