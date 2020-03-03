@@ -24,7 +24,7 @@ public class Program
     List<Node> nodes = new List<Node>() {head};
     while(pointer.Next != null && pointer.Next.Next != null)
     {
-      for (int i = 0; i < nodes.Count; i++)
+      for (int i = 0; i < nodes.Count-1; i++)
       {
         if (pointer == nodes[i])
         {
